@@ -1,4 +1,4 @@
-# Three.js Journey
+# Space scene  with three js
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
